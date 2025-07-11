@@ -264,6 +264,42 @@ nav ul li a{
 /* riviewer code end  */
 
 
+/* focus section start  */
+
+.focus-container{
+    width:1100px;
+    margin:auto;
+    text-align:center;
+    padding:71px 0px;
+    background-color:white;
+    border-radius:14px;
+}
+
+.focus-container h3{
+    font-size:50px;
+    font-weight:bold;
+}
+
+.focus-container p{
+    color:rgba(0, 0, 0, 0.5);
+    margin-top:20px;
+}
+
+.focus-sec-btn{
+    margin:20px 0px;
+}
+
+
+.focus-img img{
+    border-radius:48px;
+}
+
+
+
+
+/* focus section end  */
+
+
 /* form start   */
 
 .form-container{
