@@ -1,0 +1,246 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/* google font  */
+
+ .inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+} 
+
+
+/* header start */
+
+header{
+    height:100vh;
+    background-image:url('images/Hero-bg.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+nav{
+    width:1100px;
+    margin:0px auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-top:50px;
+}
+
+nav .logo-title{
+    font-size:34px;
+    font-weight:b;
+    color:#4E47FF;
+}
+
+nav ul li{
+    list-style:none;
+}
+
+nav ul li a{
+    text-decoration:none;
+}
+
+
+.btn{
+    border:none;
+    font-size:16px;
+    font-weight:bold;
+    padding:12px 30px;
+    background-color:#4E47FF;
+    color:white;
+    border-radius:5px;
+    cursor:pointer;
+    transition:all 0.5s;
+}
+
+
+.btn:hover{
+    background-color:#eabb0fec;
+    color:#444;
+}
+
+
+/* hero area start */
+
+.hero-container{
+    height:100%;
+    display:flex;
+    align-items:center;
+}
+
+
+.hero-header-btn{
+    width:900px;
+    text-align:center;
+    margin:auto;
+}
+
+
+.hero-header-btn h1{
+    font-size:65px;
+    font-weight:bold;
+    color:#252432;
+}
+
+.hero-header-btn .btn{
+    margin-top:30px;
+}
+
+
+/* hero end */
+
+/* main sec start */
+
+/* action sec start */
+
+.action-sec-container{
+    width:1100px;
+    margin:110px auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.action-content{
+    width:500px;
+}
+
+.action-content h3{
+    font-size:42px;
+    color:#252432;
+}
+
+.action-content p{
+    color:rgba(47, 36, 50, 0.5);
+    margin:20px 0px;
+    font-size:24px;
+    
+}
+
+
+.action-img{
+    width:400px;
+}
+
+.action-img img{
+    width:100%;
+    border-radius:38px;
+}
+
+
+
+/* action end  */
+
+
+/* productive user start  */
+
+.productive-user-container{
+    width:1100px;
+    margin:auto;
+    text-align:center;
+    background-color:rgba(78, 71, 255, 0.1);
+    padding:50px 0px;
+    border-radius:24px;
+
+    
+}
+
+
+.productive-user-container h3{
+    font-size:38px;
+    font-weight:bold;
+    color:#252432;
+    
+}
+
+
+.productive-user-content-parent{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:40px;
+}
+
+
+.productive-user-content .para-1{
+    font-size:80px;
+    font-weight:bold;
+    color:#4E47FF;
+}
+
+.productive-user-content .para-2{
+    font-size:20px;
+    color:rgba(0, 0, 0, 0.5);
+}
+
+
+/* productive user end  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
